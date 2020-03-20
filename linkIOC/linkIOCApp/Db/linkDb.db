@@ -1,0 +1,9 @@
+record(stringin, "$(I):Input")
+{
+	field(INP, "$(O):Output")
+}
+record(stringout, "$(O):Output")
+{
+	field(OUT, "$(I):Input")
+}
+	
